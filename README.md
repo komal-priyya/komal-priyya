@@ -1,6 +1,9 @@
 
-# 💫 About Me:        Hey! I'm Komal Priya
 
+
+
+    
+                                                               Hey! I'm Komal Priya
 
 🔭 I’m currently working on<br>Building full-stack web development skills with React and working on projects like a music player, along with practicing Data Structures & Algorithms in Java.<br><br>👯 I’m looking to collaborate on<br>Frontend (React) projects, UI/UX improvements, and beginner-friendly open source projects.<br><br>🤝 I’m looking for help with<br>Backend development, APIs integration, and strengthening DSA for technical interviews.<br><br>🌱 I’m currently learning<br>Backend development, advanced JavaScript, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>React, JavaScript, Tailwind CSS, and beginner-level DSA problems.<br><br>⚡ Fun fact<br>I enjoy building clean and interactive web applications and continuously improving my problem-solving skills 🚀<br>
 
