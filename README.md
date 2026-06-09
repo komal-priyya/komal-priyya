@@ -31,7 +31,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal-priyya&" alt="komal-priyya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal-priyya&" alt="komal-priyya" /></p> 
 
 
 
