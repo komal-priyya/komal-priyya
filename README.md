@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me: Hey ! I'm Komal Priya<br><br>🔭 I’m currently working on<br>Building full-stack web development skills with React and working on fullstack projects  , along with practicing Data Structures & Algorithms in Java.<br><br>👯 I’m looking to collaborate on<br>Frontend (React) projects, UI/UX improvements, and beginner-friendly open source projects.<br><br>🤝 I’m looking for help with<br>Backend development, APIs integration, and strengthening DSA for technical interviews.<br><br>🌱 I’m currently learning<br>Backend development, advanced JavaScript, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>React, JavaScript, Tailwind CSS, and beginner-level DSA problems.<br><br>⚡ Fun fact<br>I enjoy building clean and interactive web applications and continuously improving my problem-solving skills 🚀
+💫 About Me: Hey ! I'm Komal Priya<br><br>🔭 I’m currently working on<br>Building full-stack web development skills with React and working on projects like a music player, along with practicing Data Structures & Algorithms in Java.<br><br>👯 I’m looking to collaborate on<br>Frontend (React) projects, UI/UX improvements, and beginner-friendly open source projects.<br><br>🤝 I’m looking for help with<br>Backend development, APIs integration, and strengthening DSA for technical interviews.<br><br>🌱 I’m currently learning<br>Backend development, advanced JavaScript, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>React, JavaScript, Tailwind CSS, and beginner-level DSA problems.<br><br>⚡ Fun fact<br>I enjoy building clean and interactive web applications and continuously improving my problem-solving skills 🚀
 
 
 # 💻 Tech Stack:
@@ -8,10 +8,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=komal-priyya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=komal-priyya&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=komal-priyya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=komal-priyya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
