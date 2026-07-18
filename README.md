@@ -28,9 +28,13 @@ I enjoy building clean and interactive web applications and continuously improvi
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komal-priyya&show_icons=true&locale=en&layout=compact" alt="komal-priyya" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komal-priyya&show_icons=true&locale=en&layout=compact" alt="komal-priyya" /></p> -->
+![](https://github-readme-stats.shion.dev/api?username=komal-priyya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komal-priyya&show_icons=true&locale=en" alt="komal-priyya" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komal-priyya&show_icons=true&locale=en" alt="komal-priyya" /></p> -->
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=komal-priyya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal-priyya&" alt="komal-priyya" /></p> 
 
